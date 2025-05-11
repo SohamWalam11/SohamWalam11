@@ -24,6 +24,12 @@ Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual In
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SohamWalam11&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamWalam11&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="200"/> </p>
 
 ---
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamWalam11&bg_color=0d1117&color=7f3fbf&line=7f3fbf&point=7f3fbf&area=true&area_color=ffffff&title_color=ffffff" alt="GitHub Activity Graph"/>
+</p>
+
 
 ## 🏆 GitHub Trophies
 
