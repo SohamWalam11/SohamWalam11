@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I'm Soham Walam<br>🧠 - Data Science Student & Passionate ML Developer.<br>🧑‍💻 - Enthusiastic about Data as a whole.<br>🎓 - Student at DJ Sanghvi College of Engineering.<br>🌍 - Open to many new learnings and experiences. <br><br>🏢 | Work Experience<br><br>
+<b>Hi I'm Soham Walam</b><br>🧠 - Data Science Student & Passionate ML Developer.<br>🧑‍💻 - Enthusiastic about Data as a whole.<br>🎓 - Student at DJ Sanghvi College of Engineering.<br>🌍 - Open to many new learnings and experiences. <br><br>
+# 🏢 | Work Experience
 Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual Intern at AWS.<br>Ex - Data Scientist Virtual Intern at BCG X. <br> Ex - Data Analyst at Prasunet Foundation.
 
 ## 🌐 Socials:
