@@ -1,6 +1,10 @@
 # 💫 About Me:
 <b>Hi I'm Soham Walam!</b><br>
 <br>🧠 - Data Science Student & Passionate ML Developer.<br>🧑‍💻 - Data feels fascinating.<br>🎓 - Student at Dwarkadas J. Sanghvi College of Engineering.<br>🌍 - Open to many new learnings and experiences. <br><br>
+- 🔭 Currently working on: AI-powered web apps & ML research projects  <br>
+- 🌱 Learning: Advanced Machine Learning, Deep Learning, and System Design  
+- 📫 Reach me at: [sohamwalam11@gmail.com](mailto:sohamwalam11@gmail.com)  
+- 🌐 Portfolio: [soham-portfolio-sandy.vercel.app](https://soham-portfolio-sandy.vercel.app)
 ## 🏢 Work Experience:
 Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual Intern at AWS.<br>Ex - Data Scientist Virtual Intern at BCG X. <br> Ex - Data Analyst at Prasunet Foundation.
 
