@@ -1,3 +1,8 @@
+<h1 align="center">Soham Walam</h1>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=initializing+portfolio...;loading+projects...;fetching+AI+models...;ready+for+deployment!)
+
 # 💫 About Me:
 <b>Hi I'm Soham Walam!</b><br>
 <br>🧠 - Data Science Student & Passionate ML Developer.<br>🧑‍💻 - Data feels fascinating.<br>🎓 - Student at Dwarkadas J. Sanghvi College of Engineering.<br>🌍 - Open to many new learnings and experiences. <br><br>
