@@ -9,7 +9,7 @@
 - 🔭 Currently working on: AI-powered web apps & ML research projects  <br>
 - 🌱 Learning: Advanced Machine Learning, Deep Learning, and System Design  
 - 📫 Reach me at: [sohamwalam11@gmail.com](mailto:sohamwalam11@gmail.com)  
-- 🌐 Portfolio: [soham-portfolio-sandy.vercel.app](https://soham-portfolio-sandy.vercel.app)
+- 🌐 Portfolio: (https://soham-portfolio-v.vercel.app/)
 ## 🏢 Work Experience:
 Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual Intern at AWS.<br>Ex - Data Scientist Virtual Intern at BCG X. <br> Ex - Data Analyst at Prasunet Foundation.
 
