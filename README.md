@@ -1,7 +1,12 @@
 <h1 align="center">Soham Walam</h1>
 
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=initializing+portfolio...;loading+projects...;fetching+AI+models...;ready+for+deployment!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=ML+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C853&center=true&vCenter=true&width=250&lines=DevOps+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=250&lines=GSSoC+Contributor'25)
+
+</div
 
 # 💫 About Me:
 <b>Hi I'm Soham Walam!</b><br>
