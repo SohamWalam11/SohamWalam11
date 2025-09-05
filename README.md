@@ -20,25 +20,50 @@
 Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual Intern at AWS.<br>Ex - Data Scientist Virtual Intern at BCG X. <br> Ex - Data Analyst at Prasunet Foundation.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-walam-b82446296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walamsoham@gmail.com) 
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/soham-walam-b82446296/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn"/>
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:walamsoham@gmail.com">
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="36" height="36" alt="Gmail"/>
+  </a>
+</p>
+
  
 ## 🌐 Web Development: 
 [![My Skills](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,nodejs,mongodb,vue,vite,typescript,bootstrap&perline=10)](https://skillicons.dev)
 
-## 🤖 Machine Learning & 🔍Data Science:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🤖 Machine Learning & 🔍 Data Science:
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,opencv&perline=10)](https://skillicons.dev)
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/> 
+
+## App Development: 
+[![My Mobile Dev Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,supabase,vscode&perline=6)](https://skillicons.dev)
 
 
 ## 🗄️ Database Management:  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![DB Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,postman&perline=7)](https://skillicons.dev)
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="48" height="48" alt="Oracle"/>
+<img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width="48" height="48" alt="Neo4j"/>
 
 
 ## ☁️ Cloud Services: 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,azure,gcp&perline=3)](https://skillicons.dev)
+ 
 ## 🚀Hosting Services:  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br/>
+<p align="left">
+  <!-- Vercel -->
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+  <!-- Postman -->
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+  <!-- Flask -->
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="48" height="48" alt="Flask"/>
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit"/>
+</p>
+
 ## 📈 GitHub Activity Stats
 
 <!-- Streak stats -->
