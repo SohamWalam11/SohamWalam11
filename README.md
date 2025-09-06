@@ -1,4 +1,4 @@
-<h1 align="center">Soham Walam</h1>
+u<h1 align="center">Soham Walam</h1>
 
 <div align="center">
 
@@ -33,7 +33,7 @@ Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual In
 
  
 ## 🌐 Web Development: 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,nodejs,mongodb,vue,vite,typescript,bootstrap&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,nodejs,mongodb,vue,vite,typescript,bootstrap&perline=6)](https://skillicons.dev)
 
 ## 🤖 Machine Learning & 🔍 Data Science:
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,opencv&perline=10)](https://skillicons.dev)
