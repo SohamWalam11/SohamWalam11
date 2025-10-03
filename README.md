@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=ML+Engineer)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C853&center=true&vCenter=true&width=250&lines=DevOps+Engineer)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=250&lines=GSSoC+Contributor'25)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=250&lines=App+Developer)
 
 </div
 
