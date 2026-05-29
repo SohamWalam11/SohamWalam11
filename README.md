@@ -10,7 +10,7 @@
 
 #  About Me:
 <b>Hi I'm Soham Walam!</b><br>
-<br>🧠 - Data Science Student & Passionate ML Developer.<br>🧑‍💻 - Data feels fascinating.<br>🎓 - Student at Dwarkadas J. Sanghvi College of Engineering.<br>🌍 - Open to many new learnings and experiences. <br><br>
+<br>🧠 - Data Science Student & Passionate ML Developer.<br>🧑‍💻 - Data feels fascinating.<br>🎓 - Student at IIT Bombay.<br>🌍 - Open to many new learnings and experiences. <br><br>
 - 🔭 Currently working on: AI-powered web apps & ML research projects  <br>
 - 🌱 Learning: Advanced Machine Learning, Deep Learning, and System Design  
 - 🌐Portfolio: [Live Website](https://portfolio-soham1.vercel.app/)
